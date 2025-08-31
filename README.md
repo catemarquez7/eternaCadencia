@@ -1,4 +1,4 @@
-# 📝 Web Eterna Cadencia 
+# ☕️ Web Eterna Cadencia 
 
 Página web inspirada en la librería y cafetería Eterna Cadencia, realizada en mi primer cuatrimestre, en Programación Web I.
 
