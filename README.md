@@ -8,6 +8,12 @@ Además, fue realizado en combinación con la materia *Comunicación Visual*, po
 
 ---
 
+## 🖥️ Demo
+
+[Web demo](https://cosmerebrandonsanderson.42web.io/eternaCadencia)
+
+---
+
 ## 🫧 Características
 - Sitio 100% responsive →  mobile, tablet y desktop
 - Foco en la experiencia de usuario y un diseño minimalista
